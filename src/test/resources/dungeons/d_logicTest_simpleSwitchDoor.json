@@ -1,0 +1,36 @@
+{
+    "entities": [
+      {
+        "x": 0,
+        "y": 0,
+        "type": "exit"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "type": "boulder"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "switch"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "type": "switch_door",
+        "logic": "xor"
+      }
+    ],
+    "goal-condition": {"goal": "exit"}
+  }
