@@ -6,5 +6,7 @@ For the assignment, while my partner and I were given the assets and initial fil
 
 Although the project is deprecated, I believe the code within it still demonstrates my proficiency in following important Object-Orientated Programming principles.
 
-![Main Menu](assets/main_menu.png)
-![Dungeon](assets/dungeon.png)
+<div style="text-align: center">
+  <img src="assets/main_menu.png" width="200" height="200">
+  <img src="assets/dungeon.png" width="200" height="200">
+</div>
